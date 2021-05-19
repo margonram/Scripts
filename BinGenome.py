@@ -1,9 +1,9 @@
 #!/usr/bin/env python                                                       #
 #                                                                           #
-# Script BinModel.py                                                        #
+# Script BinGenome.py                                                       #
 #                                                                           #
 #                                                                           #
-# Input : window width,model,name                                           # 
+# Input : window width, name, genome                                        # 
 # Output: binning                                                           #
 #                                                                           #
 #                                                                           #
